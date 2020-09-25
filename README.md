@@ -1,16 +1,14 @@
-### Hi there 👋
+# System.out.println("Biendenido a mi perfil :3 ") 👋
 
-<!--
-**william9w/william9w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Acerca de mi**
 
-Here are some ideas to get you started:
+- ***🔭 Actualmente estoy estudiando en el Instituo Tecnologico de Tijuana...***
+- ***🌱 Actualmente estoy aprendiendo sobre videovigilancia ...***
+- ***🤔 Considero a GitHub como herramienta excelente para un ingeniero en desarrollo ...***
+- ***📫 Como contactarme: max.mendoza201@tectijuana.edu.mx ...***
+- ***😄 Si se puede imaginar se puede progranar ...***
+- ***⚡Dato curioso: Me gusta el baloncesto, lo he practicado desde los 8 años ...***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mis intereses 
+- Base de Datos
+- Redes
