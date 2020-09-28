@@ -1,4 +1,4 @@
-# System.out.println("Biendenido a mi perfil :3 ") 👋
+# System.out.println("Bienvenido a mi perfil :3 ") 👋
 
 ## **Acerca de mi**
 
